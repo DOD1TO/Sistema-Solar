@@ -1,7 +1,7 @@
 # Sistema Solar
 - Nosso sistema solar, contendo informações sobre os planetas e ainda um simulador.
 
-#Requisitos
+# Requisitos
 - Ter a pasta com as fotos;
 - Python;
 - Pygame;
