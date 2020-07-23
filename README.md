@@ -5,4 +5,4 @@
 - Ter a pasta com as fotos;
 - Python;
 - Pygame;
-- [OBS] Bote os dois arquivos .py na mesma pasta que contem as fotos dos planetas.
+- [OBS] Bote os dois arquivos .py na mesma pasta que contem as fotos dos planetas, e execute o run.py.
